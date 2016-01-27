@@ -8,12 +8,12 @@ applied to sensor.
 ## Assembly
 *This is the breadboard montage:*
 
-![montage](http://i.imgur.com/wklj9v0.png)
+![montage](http://i.imgur.com/ZOWIJvt.png)
 
 
 *This te schematic diagram of the HIAC:*
 
-![schem](http://i.imgur.com/Bqcibp3.png)
+![schem](http://i.imgur.com/qiYQ4VD.png)
 
 
 
