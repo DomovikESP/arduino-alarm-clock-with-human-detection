@@ -11,7 +11,7 @@ applied to sensor.
 ![montage](http://i.imgur.com/ZOWIJvt.png)
 
 
-*This te schematic diagram of the HIAC:*
+*This is the schematic diagram of the HIAC:*
 
 ![schem](http://i.imgur.com/qiYQ4VD.png)
 
