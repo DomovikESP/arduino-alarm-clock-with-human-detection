@@ -62,4 +62,8 @@ applied to sensor.
 
 ## DIY Tutorial
 
-First of all you must set up tour RTC module for configure date and time. For this task we need download a library created by my friend [Giltesa](http://giltesa.com/) from [here](http://giltesa.com/wp-content/uploads/2012/09/DS1307_DS3231_v1.4.2.zip) (check this [link](http://giltesa.com/2012/09/02/libreria-gds1307-para-rtc/) if you want download other version of the library). After you need open 'ex1_clock_configuration.ino'
+First of all you must set up tour RTC module for configure date and time. For this task we need download a library created by my friend [Giltesa](http://giltesa.com/) from [here](http://giltesa.com/wp-content/uploads/2012/09/DS1307_DS3231_v1.4.2.zip) (check this [link](http://giltesa.com/2012/09/02/libreria-gds1307-para-rtc/) if you want download other version of the library). After you need open 'ex1_clock_configuration.ino' and in line 56 you have to set the date and time and charge the code to Arduino board, you can check whether you have set the date and time correctly opening the serial terminal.
+
+You have 2 files to see if the resistive sensor and speaker working properly. ('prueba_sonido_alarma_despertador.ino' and 'test_sensor_resistivo.ino').
+
+After mounting and set your alarm clock put the resistive sensor under your mattres, the alarm is not deactivated until you get out of bed.
